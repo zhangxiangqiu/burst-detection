@@ -1,0 +1,6 @@
+C:\Users\qimin\source\repos\test\x64\Release\test.exe
+D:\test\x64\Release\test.exe
+E:\博四下\metis软件使用\test\x64\Release\test.exe
+E:\test\x64\Release\test.exe
+E:\学位论文\爆管探测\test\x64\Release\test.exe
+E:\学位论文\爆管探测\22test_result\x64\Release\test.exe
