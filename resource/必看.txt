@@ -1,0 +1,5 @@
+burst-pressure-similarity中对应的=burstday*96+startstep+1（调试控制台上）
+normal-pressure-mean 中对应的=startStep+1（调试控制台上）
+burst-pressure中对应的 =burstday*96+startstep+1（调试控制台上）
+c-town的压力监测点 json
+ "J39", "J204", "J40", "J366", "J408", "J417", "J7", "J179", "J161", "J156" 
